@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  temp: 1.5
+  rainfall: 1.5
+  winddir: 1.5
+  windspeed: 1.5
+  datetime: 2015-05-15 16:10:53
+
+two:
+  temp: 1.5
+  rainfall: 1.5
+  winddir: 1.5
+  windspeed: 1.5
+  datetime: 2015-05-15 16:10:53

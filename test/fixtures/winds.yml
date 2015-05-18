@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  speed: 1.5
+  maxspeed: 1.5
+  direction: 1.5
+  maxdirection: 1.5
+
+two:
+  speed: 1.5
+  maxspeed: 1.5
+  direction: 1.5
+  maxdirection: 1.5
